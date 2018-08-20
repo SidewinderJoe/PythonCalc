@@ -1,14 +1,3 @@
-#!/usr/bin/python
-
-#
-# Calculator widget.
-#
-# Author: John E Grayson
-#   Python and Tkinter Programming, Ch. 3
-#   http://www.manning.com/books/grayson/source
-#
-# Modified by T W Bennet
-#
 from Tkinter import *
 from tkMessageBox import *
 
